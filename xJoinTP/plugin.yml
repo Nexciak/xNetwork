@@ -1,0 +1,4 @@
+name: xJoinTP
+description: xNetwork >> Plugin na teleportacje przy wejsciu na serwer
+main: me.nexciak.xjointp.Main
+version: 1.0
